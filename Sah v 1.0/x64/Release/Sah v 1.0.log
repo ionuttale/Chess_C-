@@ -1,0 +1,386 @@
+﻿  Sah v 1.0.cpp
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(301,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(301,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(313,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(313,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(325,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(325,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(337,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(337,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(352,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(352,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(364,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(364,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(376,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(376,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(388,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(388,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(403,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(403,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(416,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(416,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(429,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(429,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(442,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(442,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(455,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(455,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(468,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(468,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(481,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(481,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(494,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(494,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(510,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(510,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(523,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(523,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(536,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(536,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(549,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(549,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(566,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(566,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(578,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(578,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(590,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(590,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(602,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(602,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(614,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(614,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(627,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(627,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(640,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(640,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(653,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(653,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(669,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(669,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(682,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(682,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(695,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(695,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(708,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(708,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(721,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(721,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(734,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(734,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(747,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(747,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(760,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(760,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(779,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(779,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(791,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(791,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(803,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(803,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(815,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(815,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(830,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(830,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(842,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(842,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(854,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(854,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(866,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(866,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(881,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(881,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(894,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(894,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(907,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(907,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(920,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(920,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(933,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(933,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(946,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(946,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(959,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(959,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(972,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(972,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(988,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(988,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1001,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1001,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1014,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1014,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1027,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1027,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1044,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1044,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1056,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1056,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1068,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1068,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1080,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1080,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1092,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1092,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1105,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1105,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1118,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1118,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1131,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1131,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1147,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1147,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1160,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1160,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1173,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1173,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1186,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1186,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1199,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1199,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1212,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1212,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1225,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1225,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1238,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1238,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1264,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1264,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1277,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1277,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1291,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1291,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1305,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1305,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1322,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1322,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1336,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1336,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1350,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1350,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1364,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1364,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1381,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1381,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1395,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1395,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1410,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1410,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1425,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1425,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1440,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1440,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1455,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1455,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1470,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1470,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1485,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1485,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1503,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1503,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1518,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1518,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1533,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1533,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1548,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1548,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1567,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1567,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1581,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1581,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1595,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1595,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1609,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1609,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1622,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1622,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1637,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1637,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1652,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1652,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1667,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1667,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1684,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1684,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1698,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1698,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1712,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1712,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1726,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1726,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1740,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1740,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1754,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1754,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1768,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1768,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1782,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1782,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1802,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1802,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1815,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1815,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1830,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1830,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1844,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1844,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1862,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1862,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1876,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1876,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1890,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1890,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1903,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1903,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1919,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1919,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1933,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1933,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1948,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1948,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1963,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1963,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1978,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1978,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1993,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(1993,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2008,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2008,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2023,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2023,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2041,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2041,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2056,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2056,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2071,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2071,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2086,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2086,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2105,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2105,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2119,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2119,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2133,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2133,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2147,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2147,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2161,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2161,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2176,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2176,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2191,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2191,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2206,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2206,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2223,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2223,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2237,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2237,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2251,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2251,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2265,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2265,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2279,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2279,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2293,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2293,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2307,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2307,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2321,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2321,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2781,7): warning C4101: 'k': unreferenced local variable
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2983,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2984,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2986,65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2989,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2992,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2996,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2999,65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3002,94): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3002,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3005,71): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3008,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3016,13): warning C4101: 'prevy': unreferenced local variable
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(2977,8): warning C4101: 'e': unreferenced local variable
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3016,6): warning C4101: 'prevx': unreferenced local variable
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3066,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3067,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3069,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3073,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3074,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3076,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3080,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3081,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3083,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3087,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3088,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3090,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3096,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3097,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3099,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3103,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3104,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3106,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3110,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3111,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3113,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3117,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3118,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3120,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3124,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3125,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3127,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3133,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3134,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3136,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3140,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3141,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3143,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3147,56): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3148,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3150,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3176,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3177,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3179,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3183,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3184,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3186,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3190,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3191,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3193,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3197,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3198,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3200,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3204,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3205,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3206,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3207,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3209,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3213,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3214,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3216,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3220,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3221,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3223,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3227,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3228,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3230,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3234,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3235,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3237,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3241,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3242,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3243,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3244,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3246,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3250,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3251,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3253,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3257,55): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3258,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Atestat\Sah v 1.0\Sah v 1.0\Sah v 1.0.cpp(3260,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  0 of 528 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sah v 1.0.vcxproj -> D:\Atestat\Sah v 1.0\x64\Release\Sah v 1.0.exe
